@@ -2,13 +2,13 @@
 <h3 align="center">Full-Stack Laravel Developer | React Developer | Web Scraping Specialist</h3>
 
 <p align="center">
-🚀 Passionate software developer from Pakistan <br>
-💼 Open to remote opportunities & freelance projects
+ Passionate software developer from Pakistan <br>
+ Open to remote opportunities & freelance projects
 </p>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a Full-Stack Developer with hands-on experience building scalable web applications using Laravel and React.  
 I specialize in developing REST APIs, database-driven systems, and intelligent web scraping solutions.  
@@ -17,7 +17,7 @@ I have worked on:
 - Price tracking systems for e-commerce platforms
 - Chrome extensions for real-time data monitoring
 - Angular to React migration projects
-- AI-powered chat applications  
+- Moving Services Website built in React  
 
 I focus on clean architecture, maintainable code, and performance optimization.
 
@@ -63,6 +63,8 @@ I focus on clean architecture, maintainable code, and performance optimization.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
