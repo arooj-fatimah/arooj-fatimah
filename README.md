@@ -25,7 +25,7 @@ I focus on clean architecture, maintainable code, and performance optimization.
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -35,14 +35,14 @@ I focus on clean architecture, maintainable code, and performance optimization.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙ Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -50,14 +50,14 @@ I focus on clean architecture, maintainable code, and performance optimization.
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🤖 Web Scraping & Automation
+### Web Scraping & Automation
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠 Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -66,25 +66,6 @@ I focus on clean architecture, maintainable code, and performance optimization.
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Scraping Project - e-commerce website**  
-Chrome extension that displays historical product pricing trends using Laravel backend APIs.
-
-🔹 **Price Tracker Chrome Extension**  
-Chrome extension that displays historical product pricing trends using Laravel backend APIs.
-
-🔹 **DASH – Dynamic AI Smart Hub**  
-AI-powered chat platform built with React, FastAPI, LLM integration.
-
-🔹 **Angular to React Migration**  
-Migrated full e-commerce application from Angular to React with improved performance.
-
-🔹 **Moving Services Website**  
-Fully responsive React website built for a local business.
 
 ---
 
