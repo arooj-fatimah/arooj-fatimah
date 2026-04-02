@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arooj Liaqat</h1>
+<h1 align="center">Hi, I'm Arooj Liaqat</h1>
 <h3 align="center">Full-Stack Laravel Developer | React Developer | Web Scraping Specialist</h3>
 
 <p align="center">
